@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='ujson_drf',
-      version='0.1',
+      version='0.2',
       description='JSON Renderer and Parser for Django Rest Framework using the ultra fast json (in C).',
       url='https://github.com/akshaysharma096/ujson_drf',
       author='Akshay Sharma',
