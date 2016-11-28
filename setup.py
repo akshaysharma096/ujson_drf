@@ -7,7 +7,7 @@ setup(name='ujson_drf',
       author='Akshay Sharma',
       author_email='mailbag.akshay@gmail.com',
       license='MIT',
-      packages=['ujson_drf']
+      packages=['ujson_drf'],
       install_requires=[
           'ujson',
           'django',
